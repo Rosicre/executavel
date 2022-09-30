@@ -1,2 +1,2 @@
-# executavel
+# Utilizaremos aqui o chromedriver para buscar informações de outros arquivos, usei aqui o auto_py_to_exe para transformar o arquivo Python em executável. Utilizei tambem o pathlib e os  para adaptar todos os caminhos dos arquivos, usei tambem o tkinter para me permitir escolher manualmente o arquivo, independente do computador que vamos rodar. Usei como exemplo uma lista de links do youtube para busca dos canais.
  Transformando Python em um Executável
